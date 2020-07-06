@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Amir-Safadi-06-07-2020/static/css/main.f0220437.chunk.css",
+    "main.js": "/Amir-Safadi-06-07-2020/static/js/main.2f34f70c.chunk.js",
+    "main.js.map": "/Amir-Safadi-06-07-2020/static/js/main.2f34f70c.chunk.js.map",
+    "runtime-main.js": "/Amir-Safadi-06-07-2020/static/js/runtime-main.789614a1.js",
+    "runtime-main.js.map": "/Amir-Safadi-06-07-2020/static/js/runtime-main.789614a1.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Amir-Safadi-06-07-2020/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b292e063.chunk.js": "/Amir-Safadi-06-07-2020/static/js/2.b292e063.chunk.js",
+    "static/js/2.b292e063.chunk.js.map": "/Amir-Safadi-06-07-2020/static/js/2.b292e063.chunk.js.map",
+    "index.html": "/Amir-Safadi-06-07-2020/index.html",
+    "precache-manifest.8379308c480b1b05d23dacea1e938495.js": "/Amir-Safadi-06-07-2020/precache-manifest.8379308c480b1b05d23dacea1e938495.js",
+    "service-worker.js": "/Amir-Safadi-06-07-2020/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Amir-Safadi-06-07-2020/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.f0220437.chunk.css.map": "/Amir-Safadi-06-07-2020/static/css/main.f0220437.chunk.css.map",
+    "static/js/2.b292e063.chunk.js.LICENSE.txt": "/Amir-Safadi-06-07-2020/static/js/2.b292e063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.789614a1.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b292e063.chunk.js",
+    "static/css/main.f0220437.chunk.css",
+    "static/js/main.2f34f70c.chunk.js"
+  ]
+}
